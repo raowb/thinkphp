@@ -1,0 +1,13 @@
+[ 2017-05-11T10:12:31+08:00 ] ::1 /thinkphp/index.php/Admin/User/edit/id/5
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.name deptname FROM so_user t1,so_dept t2 WHERE ( t1.id=$id and t1.dept_id=t2.pid ) 
+
+[ 2017-05-11T10:12:55+08:00 ] ::1 /thinkphp/index.php/Admin/User/edit/id/5
+ERR: syntax error, unexpected '$id' (T_VARIABLE), expecting ',' or ')'
+
+[ 2017-05-11T14:26:12+08:00 ] ::1 /thinkphp/index.php/Admin/Email/showList.html
+ERR: 非法操作:showList
+
+[ 2017-05-11T14:26:17+08:00 ] ::1 /thinkphp/index.php/Admin/Email/showList.html
+ERR: 非法操作:showList
+

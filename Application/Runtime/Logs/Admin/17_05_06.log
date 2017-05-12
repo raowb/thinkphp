@@ -1,0 +1,165 @@
+[ 2017-05-06T17:43:59+08:00 ] ::1 /thinkphp/index.php/Admin/Public/captcha
+ERR: syntax error, unexpected 'protected' (T_PROTECTED)
+
+[ 2017-05-06T18:15:29+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.2006814022655457
+ERR: 非法操作:common
+
+[ 2017-05-06T18:15:30+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.30004189031530193
+ERR: 非法操作:common
+
+[ 2017-05-06T18:15:32+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.8239865480768722
+ERR: 非法操作:common
+
+[ 2017-05-06T18:15:32+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.04568464134739725
+ERR: 非法操作:common
+
+[ 2017-05-06T18:15:34+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.22528970563041717
+ERR: 非法操作:common
+
+[ 2017-05-06T18:15:37+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.45293984022254413
+ERR: 非法操作:common
+
+[ 2017-05-06T18:15:37+08:00 ] ::1 /thinkphp/index.php/Admin/Public/common/t/0.18243147509946605
+ERR: 非法操作:common
+
+[ 2017-05-06T18:48:53+08:00 ] ::1 /thinkphp/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-05-06T18:56:59+08:00 ] ::1 /thinkphp/index.php/Admin/Public/checkLogin
+ERR: syntax error, unexpected '，U' (T_STRING), expecting ',' or ')'
+
+[ 2017-05-06T19:01:43+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:01:48+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:01:49+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:01:55+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:01:57+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:01:58+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:01:58+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:11+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:13+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:14+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-det.html
+ERR: 非法操作:info-det
+
+[ 2017-05-06T19:02:20+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:22+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:23+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:25+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:26+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:27+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:27+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:28+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:28+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:29+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:30+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:30+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:31+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:32+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:32+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:33+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:34+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:35+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:35+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:36+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:37+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:38+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:38+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:39+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:40+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:02:41+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2017-05-06T19:02:41+08:00 ] ::1 /thinkphp/index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2017-05-06T19:03:51+08:00 ] ::1 /thinkphp/index.php/Admin/Index/%7BU('add')%7D
+ERR: 非法操作:{U('add')}
+
+[ 2017-05-06T19:05:30+08:00 ] ::1 /thinkphp/index.php/Admin/Index/add.html
+ERR: 非法操作:add
+
+[ 2017-05-06T19:05:36+08:00 ] ::1 /thinkphp/index.php/Admin/Index/add.html
+ERR: 非法操作:add
+
+[ 2017-05-06T19:05:38+08:00 ] ::1 /thinkphp/index.php/Admin/Index/showList.html
+ERR: 非法操作:showList
+
+[ 2017-05-06T19:15:17+08:00 ] ::1 /thinkphp/index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2017-05-06T19:15:18+08:00 ] ::1 /thinkphp/index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2017-05-06T19:15:18+08:00 ] ::1 /thinkphp/index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2017-05-06T19:15:18+08:00 ] ::1 /thinkphp/index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+

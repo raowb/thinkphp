@@ -1,0 +1,10 @@
+[ 2017-05-07T10:24:34+08:00 ] ::1 /thinkphp/index.php/Admin/Dept/add.html
+ERR: Think\Controller:sucess方法不存在！
+
+[ 2017-05-07T10:27:12+08:00 ] ::1 /thinkphp/index.php/Admin/info-reg.html
+ERR: 无法加载控制器:Info-reg
+
+[ 2017-05-07T16:48:26+08:00 ] ::1 /thinkphp/index.php/Admin/Dept/showList.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asec' at line 1
+ [ SQL语句 ] : SELECT * FROM `so_dept` ORDER BY sort asec 
+
